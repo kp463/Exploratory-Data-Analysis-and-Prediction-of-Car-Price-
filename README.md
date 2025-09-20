@@ -7,7 +7,7 @@ This project explores car price data through exploratory data analysis (EDA) and
 - Exploratory Data Analysis with visualizations.  
 - Data preprocessing and feature engineering. 
 - Regression models: Multiple Linear Regression, LASSO.  
-- Model evaluation with RMSE, R², and residual analysis.
+- Model evaluation with RSS, R², PRESS and residual analysis.
 
 ## Installation  
 
